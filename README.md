@@ -4,10 +4,13 @@
 
 Command Line Scripts for ZJU (VPN / WLAN / DNS)
 
-zjenet user add: 注意user add 的时候，用户名后面要加@abc、如果资费10块就是@a [username]@[abc] 
-zjunet vpn -c        Connect VPN
-zjunet vpn -d        Disconnect VPN
-zjunet wlan disable  Completely disable WLAN capatibility
+- zjenet user add: 注意user add 的时候，用户名后面要加@abc、如果资费10块就是@a [username]@[abc] 
+
+- zjunet vpn -c        Connect VPN
+
+- zjunet vpn -d        Disconnect VPN
+
+- zjunet wlan disable  Completely disable WLAN capatibility
 
 ## Features
 
